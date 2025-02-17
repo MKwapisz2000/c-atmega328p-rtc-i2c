@@ -44,7 +44,7 @@ Usage Instructions:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Opis projektu - Polski
+**Opis projektu - Polski**
 
 Ten projekt implementuje obsługę zegara czasu rzeczywistego (RTC) PCF8563 na ATmega328P poprzez magistralę I2C. Dodatkowo obsługuje alarm wyzwalany przerwaniem zewnętrznym INT0, co umożliwia reagowanie na ustawiony czas alarmu.
 
